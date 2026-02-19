@@ -78,5 +78,5 @@ Motivated IT professional transitioning into full-time IT Support and Cloud Engi
 
 ## 📫 Connect With Me
 
-LinkedIn: (Paste your LinkedIn link)  
-Email: (Professional email)
+LinkedIn: www.linkedin.com/in/gurvinder-cheema-7b41906b
+Email: cheema_22@live.com
