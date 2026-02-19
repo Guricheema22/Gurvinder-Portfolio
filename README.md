@@ -1,19 +1,14 @@
-<h1 align="center">Hi 👋 I'm Gurvinder</h1>
-<h3 align="center">IT Support | Microsoft 365 | Azure | Identity & Access | Networking Fundamentals</h3>
+<h1 align="center">Hi 👋 I'm Gurvinder Cheema</h1>
+<h3 align="center">IT Support | L1–L2 Service Desk | Microsoft 365 | Entra ID | Desktop Support</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-Motivated IT professional transitioning into full-time IT Support and Cloud Engineering.
+IT professional transitioning into full-time IT Support and Identity-focused roles.  
+Hands-on experience through structured labs covering Microsoft 365, Entra ID, Active Directory, Intune, and Networking fundamentals.
 
-- 🔧 Hands-on labs in Microsoft 365, Entra ID & Active Directory  
-- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)  
-- 🛡 Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-900)  
-- 📦 Microsoft Certified: Microsoft 365 Fundamentals (MS-900)  
-- 🔐 Microsoft Applied Skills: Identity & Access with Microsoft Entra  
-- 🌐 Networking & Cybersecurity fundamentals (Cisco NetAcad)  
-- 🎯 Career Goal: Grow into Systems / Cloud / Identity Engineering    
+Focused on practical troubleshooting, user lifecycle management, and security-first support practices.
 
 ---
 
@@ -23,49 +18,53 @@ Motivated IT professional transitioning into full-time IT Support and Cloud Engi
 ![Security Fundamentals](https://img.shields.io/badge/SC--900-Security_Compliance_Identity-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/MS--900-M365_Fundamentals-742774?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Microsoft Entra](https://img.shields.io/badge/Applied_Skills-Microsoft_Entra_Identity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
 ![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Networking Basics](https://img.shields.io/badge/Networking-Fundamentals-FF6F00?style=for-the-badge)
-![Network Devices](https://img.shields.io/badge/Network_Devices-Configuration-0A66C2?style=for-the-badge)
 
 ---
 
-## 🛠 Core Technical Skills
+## 🛠 Technical Skills
 
-### 💼 IT Support
-- Windows 10/11 Troubleshooting  
-- Hardware Diagnostics  
-- Remote Support  
-- Ticketing Systems  
-- User Lifecycle Management  
+### 💼 Service Desk & Desktop Support
+- Windows 10/11 Troubleshooting
+- User Account Management
+- Password & MFA Resets
+- Remote Support Tools
+- Basic Hardware Diagnostics
+- Ticket Handling & Escalation
 
-### ☁️ Cloud & Identity
-- Microsoft 365 Administration  
-- Entra ID (Azure AD)  
-- Exchange Online  
-- Intune Device Management  
-- MFA & Conditional Access  
+### 🔐 Identity & Microsoft 365
+- User Provisioning & Deprovisioning
+- Microsoft Entra ID Administration
+- License Assignment & Management
+- Exchange Online Mailbox Management
+- Shared Mailboxes & Permissions
+- Conditional Access (Foundations)
 
-### 🌐 Networking
-- IP Addressing  
-- DNS / DHCP  
-- VPN Concepts  
-- Firewall Basics  
+### 📱 Endpoint & Device Management
+- Intune Device Enrollment
+- Compliance Policies
+- Configuration Profiles
+- Application Deployment (Basic)
 
-### ⚙ Automation
-- PowerShell Basics  
-- User & License Management Scripts  
+### 🌐 Networking Fundamentals
+- IP Addressing & Subnet Basics
+- DNS / DHCP Concepts
+- Network Troubleshooting
+- VPN Concepts
+
+### ⚙ Automation (Basic)
+- PowerShell User & License Management Scripts
 
 ---
 
-## 📂 Featured Lab Projects
+## 📂 Featured Hands-On Labs
 
-🔐 User Lifecycle Management (Entra ID + M365)  
-📧 Mailbox & Shared Mailbox Configuration  
-🖥 Active Directory Domain Setup  
+🔐 Identity & Access Management Portfolio  
+🖥 Active Directory Domain & GPO Lab  
+📧 Microsoft 365 User Lifecycle Lab  
 📱 Intune Device Compliance Lab  
-🌐 Networking Configuration Lab  
-🔎 Phishing & Email Security Investigation Lab  
+🌐 Networking Fundamentals Lab  
 
 ---
 
@@ -76,7 +75,7 @@ Motivated IT professional transitioning into full-time IT Support and Cloud Engi
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 LinkedIn: www.linkedin.com/in/gurvinder-cheema-7b41906b
 Email: cheema_22@live.com
