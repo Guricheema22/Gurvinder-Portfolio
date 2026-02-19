@@ -1,4 +1,4 @@
-# Lab 02 - Business User Onboarding (User + Groups + Licensing + Shared Mailbox)
+# Lab 02 – Business User Onboarding (User + Groups + Licensing + Shared Mailbox)
 
 ## 🔹 Scenario
 A new employee, **Michael Scott**, has joined the Finance department.  
