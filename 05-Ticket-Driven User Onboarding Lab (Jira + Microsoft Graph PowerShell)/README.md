@@ -226,8 +226,3 @@ This lab demonstrates my ability to:
 
 ---
 
-# 👤 Author
-
-**Your Name**  
-IT Support | Cloud Administration | Identity & Access Management  
-Aspiring Cloud / Identity Engineer
