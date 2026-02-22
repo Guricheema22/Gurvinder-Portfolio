@@ -1,4 +1,4 @@
-# 🎫 Ticket-Driven User Onboarding Lab (Jira + Microsoft Graph PowerShell)
+# Lab 05 - Ticket-Driven User Onboarding Lab (Jira + Microsoft Graph PowerShell)
 
 ## 📌 Lab Overview
 
