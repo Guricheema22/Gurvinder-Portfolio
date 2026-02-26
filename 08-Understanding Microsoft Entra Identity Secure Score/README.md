@@ -85,5 +85,3 @@ A strong identity foundation leads to a more secure overall cloud environment.
 Identity Secure Score is one of the most valuable tools in Microsoft Entra for evaluating and improving identity security.  
 By following Microsoft’s recommendations—even gradually—you significantly improve your organisation’s protection against modern identity-based threats.
 
-
-Just let me know!
